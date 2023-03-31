@@ -9,6 +9,7 @@ This webpage will help a user generate a random password. By following a series 
 Clicking the Generate Password button will begin a series of prompts that will ask you questions on the specifications of your password. Answer them to create a randomly generated password.
 
 ![screenshot of password generator webpage](/Assets/images/RandomPassGenImg.png)
+Click [HERE](https://chemicalmodel.github.io/RandomPasswordGenerator/) to check it out!
 
 ## Credits
 
